@@ -1,4 +1,4 @@
-/*write a program to input  any string and implement strlen()and
+///*write a program to input  any string and implement strlen()and
 strcmp() in a single program
 date:27/1/2022*/
 #include<stdio.h>
